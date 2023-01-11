@@ -10,6 +10,8 @@ Desafio 01 - ToDo List feito no curso Ignite da Rocketseat
 
 # Preview
 
+Clique para visualizar em qualidade melhor.
+
 ![Animação](https://user-images.githubusercontent.com/50672568/211873392-41db6702-f51d-48dd-9473-335bae2fb286.gif)
 
 # Conceitos Utilizados
