@@ -1,5 +1,5 @@
 # to-do-list
-Desafio 01 - ToDo List feito no curso Ignite da Rocketseat
+Lista de tarefas feita no curso Ignite da Rocketseat
 
 # Objetivo
 
